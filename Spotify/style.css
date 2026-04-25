@@ -9,3 +9,15 @@
 .s1{
     overflow: auto;
 }
+
+.ss1{
+display: flex;
+    justify-content: space-between; /* Isse arrows left mein aur buttons right mein ho jayenge */
+    align-items: center;
+    padding: 16px;
+    background-color: #121212; /* Background color matching Spotify */
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    
+}
