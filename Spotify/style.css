@@ -19,5 +19,23 @@ display: flex;
     position: sticky;
     top: 0;
     z-index: 10;
-    
 }
+
+.footer{
+
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.line{
+
+    width: 90%;
+    height: 30%;
+    border-top: 1px solid white;
+    opacity: 0.4;
+}
+
+
+
+
